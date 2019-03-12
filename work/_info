@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/code/lab3
+vfsm
+Z0 !s110 1521605342
+!i10b 1
+!s100 YgfR:[X:5KC70>03@MM`21
+IU<63VEV7BWXQOUgio^?542
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/code/verilog/lab4
+w1521603832
+8D:/code/verilog/lab4/fsm.v
+FD:/code/verilog/lab4/fsm.v
+L0 1
+Z3 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1521605342.000000
+!s107 D:/code/verilog/lab4/fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/code/verilog/lab4/fsm.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtestbench
+R0
+!i10b 1
+!s100 ZO0PB1a81O2Zbc_m_U`b>3
+IU5C4cilId[JCZ_jZHJoA;1
+R1
+R2
+w1521604639
+8D:/code/verilog/lab4/testbench.v
+FD:/code/verilog/lab4/testbench.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/code/verilog/lab4/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/code/verilog/lab4/testbench.v|
+!i113 1
+R5
+R6
